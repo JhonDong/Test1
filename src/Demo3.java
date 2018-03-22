@@ -43,6 +43,7 @@ public class Demo3 {
 			writer.write(sb.toString());
 			writer.newLine();
 			
+			
 		}
 		reader.close();
 		writer.close();
